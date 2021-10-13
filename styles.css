@@ -1,0 +1,28 @@
+img{
+width:15px;
+}
+BODY{
+	background-color:pALETURQUOISE;
+	FONT-FAMILY:aRIAL;
+	
+}
+
+.RED{
+	color:GREEN;
+	
+}
+
+.BIG{
+	font-size:55PX;
+}
+
+#SPECIAL_STYLE{
+	border:2PX SOLID RED;
+	background-color:GREEN;
+	width:50%;
+}
+#test{
+	border:2PX SOLID RED;
+	background-color:GREEN;
+	width:50%;
+}
